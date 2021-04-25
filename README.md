@@ -1,4 +1,0 @@
-# rojjot.xyz
-
-
-MY WEBSITE
