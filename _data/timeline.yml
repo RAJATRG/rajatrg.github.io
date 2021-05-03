@@ -37,24 +37,8 @@
     - tag: OpenCV
   timeline-side: right
 
-- title: Super University
+- title: National Insititute Of Technology,Goa
   title-url: https://example.com/
   date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
-  timeline-side: left
-
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
-  tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+  subtitle: B.Tech in Elctrical,Elctronics and Communication Engineering
   timeline-side: left
