@@ -5,29 +5,24 @@
 # - name: Framework
 #   weight: 5
 
-- name: Angular
+- name: SailsJS
   weight: 5
 
-- name: AngularJS
+- name: ExpressJS
   weight: 3
 
-- name: React
+- name: VUeJS
   weight: 4
 
-- name: Node
-  weight: 1
-
-- name: Flutter
+- name: PostgreSQL
   weight: 2
 
-- name: Express
+- name: MongoDB
   weight: 3
 
-- name: Django
-  weight: 1
-
-- name: Spring
+- name: Tensorflow
   weight: 2
 
-- name: Rails
-  weight: 4
+- name: OpenCV
+  weight: 2
+

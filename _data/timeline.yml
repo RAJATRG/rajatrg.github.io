@@ -17,25 +17,24 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
+- title: Rupeek
+  title-url: https://rupeek.com/
+  date: June 2019 - Present
   subtitle: Fullstack Developer
   tags:
-    - tag: React
     - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+    - tag: NoSQl,SQL
+    - tag: Express
   timeline-side: right
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
+- title: IIT Delhi
+  title-url: https://iitd.ac.in/
+  date: May 2018 - July 2018
+  subtitle: Machine learning Reasearch Intern
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
+    - tag: Python
+    - tag: TensorFlow
+    - tag: OpenCV
   timeline-side: right
 
 - title: Super University
